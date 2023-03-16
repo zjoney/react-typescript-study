@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhufengnodejs/zhufeng_react_typescript.git"
+    "url": "git+https://github.com/zjoney/react-typescript-study.git"
   },
   "keywords": [
     "typescript",
@@ -23,12 +23,12 @@
       "commit-msg": "validate-commit-msg"
     }
   },
-  "author": "zhangrenyang",
+  "author": "zjoney",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhufengnodejs/zhufeng_react_typescript/issues"
+    "url": "https://github.com/zjoney/react-typescript-study/issues"
   },
-  "homepage": "https://github.com/zhufengnodejs/zhufeng_react_typescript#readme",
+  "homepage": "https://github.com/zjoney/react-typescript-study/blob/main/README.md",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.8.0",
     "@typescript-eslint/parser": "^4.8.0",
