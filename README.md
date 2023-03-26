@@ -1,4 +1,4 @@
-# react-typescript-study
+# TypeScript+React实战
 ## TypeScript+React实战
 
 1. TypeScript工程化开发
